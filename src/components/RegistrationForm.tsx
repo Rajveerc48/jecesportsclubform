@@ -387,7 +387,7 @@ const RegistrationForm: React.FC = () => {
 
         {/* Footer */}
         <p className="text-center text-gray-400 text-sm mt-6">
-          Already more than 500 gamers on campus – be the next champion!
+          🎮 Join the fastest-growing esports community on campus!
         </p>
       </div>
     </div>
