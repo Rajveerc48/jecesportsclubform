@@ -1,0 +1,9 @@
+name = "jec-esports-form"
+compatibility_date = "2025-07-25"
+
+[build]
+command = "npm run build"
+
+[[assets]]
+binding = "ASSETS"
+directory = "./dist"
