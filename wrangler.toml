@@ -1,5 +1,5 @@
-# File: wrangler.toml
-name = "jec-esports-form"
+# wrangler.toml
+name = 'jgesportsclubform'
 compatibility_date = "2025-07-25"
 
 [build]
